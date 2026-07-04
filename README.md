@@ -6,21 +6,16 @@
 </p>
 
 ---
+Software Engineer with a strong background in systems programming, backend development, IoT and edge computing.
+I build scalable applications using **C**, **Python** and **TypeScript**, with experience in Linux systems, distributed architectures, machine learning and real-time data processing.
 
-### 🔭 Neste momento
+### 🚀 Featured Projects
 
-- A resolver projetos do currículo da **42 School** (algoritmos, sistemas, C/Python)
-- A construir projetos full-stack e de machine learning por conta própria
-
-### 🚀 Projetos em destaque
-
-| Projeto | Descrição |
-|---|---|
-| [Fly-in](https://github.com/Mario2211-debug/Fly-in) | Otimização algorítmica de rotas/agendamento multi-agente para uma frota de drones (projeto 42) |
-| [industrial_defect_project_pro](https://github.com/Mario2211-debug/industrial_defect_project_pro) | Deteção de defeitos industriais com CNN, autoencoder, U-Net e ResNet |
-| [predictive_maintenance](https://github.com/Mario2211-debug/predictive_maintenance) | Sistema de manutenção preditiva com nós sensores e servidor mestre |
-| [MeetEasy](https://github.com/Mario2211-debug/MeetEasy) | Gestão de reuniões, participantes e calendário interativo |
-| [movies (CineVerse)](https://github.com/Mario2211-debug/movies) | Gestão de coleção de filmes — Next.js + Express + MongoDB |
+| Project                                                                                           | Description                                                                                          |
+| ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [Fly-in](https://github.com/Mario2211-debug/Fly-in)                                               | Multi-agent drone fleet optimization using advanced scheduling and graph algorithms.                 |
+| [industrial_defect_project_pro](https://github.com/Mario2211-debug/industrial_defect_project_pro) | Industrial defect detection using CNNs, Autoencoders, U-Net and ResNet architectures.                |
+| [predictive_maintenance](https://github.com/Mario2211-debug/predictive_maintenance)               | Edge-based predictive maintenance platform combining IoT sensor networks, MQTT and machine learning. |
 
 ### 🛠️ Tech Stack
 

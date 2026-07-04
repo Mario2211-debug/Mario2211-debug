@@ -5,7 +5,6 @@
   🌐 Portfólio: <a href="https://victor-portfolio-sepia.vercel.app/">victor-portfolio-sepia.vercel.app</a>
 </p>
 
----
 Software Engineer with a strong background in systems programming, backend development, IoT and edge computing.
 I build scalable applications using **C**, **Python** and **TypeScript**, with experience in Linux systems, distributed architectures, machine learning and real-time data processing.
 

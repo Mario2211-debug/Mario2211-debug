@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou o Mário Afonso</h1>
-<h3 align="center">Technology student • 42 School • a construir coisas de ponta a ponta</h3>
+<h3 align="center">Technology student • 42 School • Systems Engineer</h3>
 
 <p align="center">
   🌐 Portfólio: <a href="https://victor-portfolio-sepia.vercel.app/">victor-portfolio-sepia.vercel.app</a>
@@ -9,7 +9,7 @@
 
 ### 🔭 Neste momento
 
-- A resolver projetos do currículo da **42 School** (algoritmos, sistemas, C/C++)
+- A resolver projetos do currículo da **42 School** (algoritmos, sistemas, C/Python)
 - A construir projetos full-stack e de machine learning por conta própria
 
 ### 🚀 Projetos em destaque

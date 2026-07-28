@@ -12,7 +12,7 @@ I build scalable applications using **C**, **Python** and **TypeScript**, with e
 
 | Project                                                                                           | Description                                                                                          |
 | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [Fly-in](https://github.com/Mario2211-debug/Fly-in)                                               | Multi-agent drone fleet optimization using advanced scheduling and graph algorithms.                 |
+| [42 Porto](https://github.com/Mario2211-debug/42-Porto.git)                                               | This repository tracks my progress through 42 School's Common Core in Porto.                 |
 | [industrial_defect_project_pro](https://github.com/Mario2211-debug/industrial_defect_project_pro) | Industrial defect detection using CNNs, Autoencoders, U-Net and ResNet architectures.                |
 | [predictive_maintenance](https://github.com/Mario2211-debug/predictive_maintenance)               | Edge-based predictive maintenance platform combining IoT sensor networks, MQTT and machine learning. |
 | [edgeX](https://github.com/Mario2211-debug/edgeX)                                                 | IoT device simulation on EdgeX Foundry — MQTT sensor data pipeline queryable through EdgeX's REST API. |

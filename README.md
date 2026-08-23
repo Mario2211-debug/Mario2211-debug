@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou o Mário Afonso</h1>
-<h3 align="center">Technology student • 42 School • Systems Engineer</h3>
+<h3 align="center">42 School • Systems Engineer</h3>
 
 <p align="center">
   🌐 Portfólio: <a href="https://victor-portfolio-sepia.vercel.app/">victor-portfolio-sepia.vercel.app</a>
